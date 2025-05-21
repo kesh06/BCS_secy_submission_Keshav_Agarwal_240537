@@ -49,7 +49,7 @@ In this project, I implemented a Reinforcement Learning (Q-learning) agent `B` t
 - A is always spawned kinda farther from B so that B gains some time to learn.
 - BFS is used for A to keep its behavior consistent and predictable.
 
--** Important to type `python goblet_of_fire.py train` in the terminal to see the plots and the success rate.
+-**Important to type `python goblet_of_fire.py train` in the terminal to see the plots and the success rate.
 
 ---
 
